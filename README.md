@@ -8,9 +8,13 @@ I am Val, a web-developer.
 My skills for now include:
 
 ✅ HTML/CSS/Sass 
+
 ✅ Responsive Design 
+
 ✅ Git 
+
 ✅ JavaScript 
+
 ✅ Figma
 
 How to reach me:
